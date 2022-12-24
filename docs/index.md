@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Volar
+  name: lomantig
   text: High-performance tooling for Vue
   tagline: The recommended VSCode extension for Vue.js projects
   actions:
